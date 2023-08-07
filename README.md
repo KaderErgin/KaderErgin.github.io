@@ -1,5 +1,5 @@
 # KaderErgin.github.io
-[JavaScript date and cloc](https://KaderErgin.github.io/Javascript_/)
+[JavaScript date and clock](https://KaderErgin.github.io/Javascript_/index)
 
 
 
