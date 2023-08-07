@@ -1,0 +1,18 @@
+img{
+    display: flex;
+    margin: auto;
+}
+
+.search{
+    text-align: center;
+    margin: auto;
+    width: 90%;
+}
+
+
+footer{
+    display: flex;
+    font-size: smaller;
+    justify-content: center;
+    margin-top: 15px;
+}
