@@ -1,4 +1,4 @@
-[date and clock example](https://KaderErgin.github.io/Javascript/Javascript-Study_1/)
+[date and clock](https://KaderErgin.github.io/Javascript/Javascript-Study_1/)
 
 
 
